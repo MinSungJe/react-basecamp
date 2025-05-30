@@ -8,7 +8,7 @@ function B() {
 }
 
 function C() {
-  return "C";
+  return 'C';
 }
 
 A();
